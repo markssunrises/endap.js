@@ -86,3 +86,7 @@ $ python3 -m http.server 8000
 
 ## misc
 + You can talk via issues. 
+
+
+## Tambahan jejak 
++ Agar ada perubahan, saya menambahkan ini sebagai bentuk commit
